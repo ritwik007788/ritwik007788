@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ritwik</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
+<img align='right' src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif?cid=ecf05e47b22uxno56xptyfvx5l0lrlggndd69sf7p6czj38z&rid=giphy.gif&ct=g" width="230">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritwik007788&label=Profile%20views&color=0e75b6&style=flat" alt="ritwik007788" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritwik007788" alt="ritwik007788" /></a> </p>
