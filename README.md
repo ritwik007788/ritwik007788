@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritwik</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<img align='right' src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif?cid=ecf05e47rxq46lf68110x0pg7sbq730nvvhml34uvmgqg8o3&rid=giphy.gif&ct=g" width="230">
+<img align='right' src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif?cid=ecf05e47rxq46lf68110x0pg7sbq730nvvhml34uvmgqg8o3&rid=giphy.gif&ct=g" width="210">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritwik007788&label=Profile%20views&color=0e75b6&style=flat" alt="ritwik007788" /> </p>
 
